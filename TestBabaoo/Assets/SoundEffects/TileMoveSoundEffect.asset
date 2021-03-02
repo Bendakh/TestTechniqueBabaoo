@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fb79de7559fa94f48baed5c515924ccb, type: 3}
+  m_Name: TileMoveSoundEffect
+  m_EditorClassIdentifier: 
+  soundName: TileMoveSoundEffect
+  clip: {fileID: 8300000, guid: 08867782414f97a46a48f655d47ae90f, type: 3}
+  volume: 1
+  pitch: 3
